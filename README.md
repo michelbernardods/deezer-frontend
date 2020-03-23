@@ -8,9 +8,11 @@
   ☕ Code and coffee
 </h4>
 
+
 <h3 align="center">
-  #java #springboot #apirest #api #eclipse #devtools #mvp #web #jpa #postgresql #deezer
+  #javascript #es6 #apirest #vuejs #vuetify #postgresql #nodejs #npm #eslint #axios 
 </h3>
+
 
 Linkedin : https://www.linkedin.com/in/michel-bernardo/
 
