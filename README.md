@@ -1,4 +1,3 @@
-# vuetable
 
 ## Project setup
 ```
