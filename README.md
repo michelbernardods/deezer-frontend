@@ -41,7 +41,7 @@ Todas as informações serão obtidas pela API pública do Deezer: https://api.d
 Para acessar o banco de dados, precisa instalar o Postgresql:
 https://www.postgresql.org/download/
 
-Para acessar o Front end precisa baixar o repositório: 
+Para acessar o Backend precisa baixar o repositório: 
 https://github.com/michelbernardods/deezer-backend
 
 ##### OBS: Muito importante iniciar o backend antes do frontend!
