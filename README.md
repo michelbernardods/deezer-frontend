@@ -9,47 +9,36 @@
 </h4>
 
 
-<h3 align="center">
-  #javascript #es6 #apirest #vuejs #vuetify #postgresql #nodejs #npm #eslint #axios 
-</h3>
-
 
 Linkedin : https://www.linkedin.com/in/michel-bernardo/
 
-## 💻 Projeto
+## 💻 Project
 
-Criar uma página de busca onde podemos fazer consultas pelo nome do artista. 
+Create a search page where we can search for the artist's name.
 
-Todas as consultas serão salvas no banco de dados para gerar estatísticas.
+To display these records, a REST API must be created which will return the following fields in JSON format:  
+   - Name searched
+   - Date and time of the survey in the format 00/00/0000 00:00:00 (DD / MM / YYYY HH: MM: SS)
 
-Para exibir esses registros, deverá ser criado uma API REST que retornara os seguintes campos no formato JSON:
-  - Nome pesquisado;
-  - Data e hora da pesquisa no formato 00/00/0000 00:00:00 (DD/MM/YYYY HH:MM:SS)
-
-Funcionalidades desejadas:
-
-Todas as informações serão obtidas pela API pública do Deezer: https://api.deezer.com/search/?q=linkinpark
-- Deverá aparecer os nomes das músicas separados por álbum;
-- Abrir página da músicas ao clicar em cima;
-- Permitir ordenação por álbum e ranking;
-- Página responsiva;
-- Todos as buscas deverão ser salvar no banco de dados;
+Desired features:
+All information will be obtained through the Deezer public API: https://api.deezer.com/search/?q=linkinpark
+   - The names of the songs should appear, separated by album;
+   - Open the music page by clicking on it;
+   - Allow sorting by album and ranking;
+   - Responsive page;
+   - All searches must be saved in the database;;
 
 -> Backend : Java 
 -> Frontend : PostgresSql
 
-# Requisítos 
+# Requirements 
 
-Para acessar o banco de dados, precisa instalar o Postgresql:
-https://www.postgresql.org/download/
-
-Para acessar o Backend precisa baixar o repositório: 
+To access the database, you need to install Postgresql:https://www.postgresql.org/download/
 https://github.com/michelbernardods/deezer-backend
 
-##### OBS: Muito importante iniciar o backend antes do frontend!
+##### OBS: Very important to start the backend before the frontend!
 
-
-# Instalação
+# Installation
 
 #### Project setup
 ```
