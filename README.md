@@ -9,9 +9,6 @@
 </h4>
 
 
-
-Linkedin : https://www.linkedin.com/in/michel-bernardo/
-
 ## 💻 Project
 
 Create a search page where we can search for the artist's name.
